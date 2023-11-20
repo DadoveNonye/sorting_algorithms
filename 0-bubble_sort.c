@@ -14,7 +14,8 @@ void swap(int *a, int *b) {
 }
 
 /**
- * bubble_sort - Func that sorts an array of integers in ascending order.
+ * bubble_sort - Func that sorts an array of
+ * integers in ascending order.
  * @array: Array of integers to sort.
  * @size: The size of the array to be swapped.
  *
